@@ -14,7 +14,8 @@ perhaps modern tools/libraries etc. Will they adopt this upstream? Probably not.
 
 ---
 
-## WARNING: Use of this software may cause unexpected side effects, including but not limited to: spontaneous urge to rewrite code in assembly language, uncontrollable muttering of "it works on my machine," sudden cravings for energy drinks at 3 AM, temporary loss of ability to distinguish tabs from spaces, vivid hallucinations of perfectly aligned CSS, compulsive refactoring of legacy code, inexplicable desire to argue about vi vs. emacs, spontaneous outbursts of "I forgot to push to git," mild to severe keyboard rage, and/or an irrational fear of merge conflicts. In rare cases, users may experience a 72-hour debugging session with no resolution, spontaneous growth of a neckbeard, or the compulsion to name all variables after sci-fi characters. Consult your sysadmin if you experience stack overflow panic attacks, recursive function nightmares, or if your terminal remains unresponsive for more than 4 hours. Do not use this software if you are allergic to semicolons or have a history of regex-induced migraines. By using this software, you acknowledge that no one, not even the developer, knows exactly how it works. Proceed at your own risk.
+## WARNING:
+Use of this software may cause unexpected side effects, including but not limited to: spontaneous urge to rewrite code in assembly language, uncontrollable muttering of "it works on my machine," sudden cravings for energy drinks at 3 AM, temporary loss of ability to distinguish tabs from spaces, vivid hallucinations of perfectly aligned CSS, compulsive refactoring of legacy code, inexplicable desire to argue about vi vs. emacs, spontaneous outbursts of "I forgot to push to git," mild to severe keyboard rage, and/or an irrational fear of merge conflicts. In rare cases, users may experience a 72-hour debugging session with no resolution, spontaneous growth of a neckbeard, or the compulsion to name all variables after sci-fi characters. Consult your sysadmin if you experience stack overflow panic attacks, recursive function nightmares, or if your terminal remains unresponsive for more than 4 hours. Do not use this software if you are allergic to semicolons or have a history of regex-induced migraines. By using this software, you acknowledge that no one, not even the developer, knows exactly how it works. Proceed at your own risk.
 
 # Who is your daddy and what does he do?
 
@@ -74,4 +75,4 @@ Use a case-sensitive search-and-replace tool to ensure all instances are updated
 
 # License
 
-Dual licensed see [LICENSE] file for details.
+Dual licensed see [LICENSE](LICENSE) file for details.
