@@ -10,8 +10,6 @@ Thank you for your interest in contributing to [HelloWorldNG](https://github.com
 - **PHP 8.2** and Composer for dependency management.
 - **Node.js** (v18 or higher recommended) and npm/yarn for frontend tooling.
 - Basic knowledge of Git and GitHub workflows.
-- [Optional: Familiarity with Laravel's `/illuminate` packages (e.g., `illuminate/database`) is a plus but not required.]
-- [Optional: Docker, if used for local development setup.]
 
 ### Setting Up the Project
 1. Fork the repository: [https://github.com/jfinstrom/helloworldng](https://github.com/jfinstrom/helloworldng).
@@ -95,7 +93,6 @@ Focus on development tasks rather than managing the project. For major changes o
 - Review the [README.md](https://github.com/jfinstrom/helloworldng/blob/main/README.md) for setup details.
 - Ask questions via GitHub Issues.
 - For AI-related questions, clarify how you validated AI outputs before seeking help.
-- For `/illuminate` package usage, refer to their respective READMEs on GitHub.
 
 ## License
 By contributing, you agree that your contributions will be licensed under the project's [LICENSE](https://github.com/jfinstrom/helloworldng/blob/main/license.txt).
