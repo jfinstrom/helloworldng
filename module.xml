@@ -1,0 +1,21 @@
+<module>
+	<rawname>helloworldng</rawname>
+	<name>A new kind of example module</name>
+	<version>17.0.1</version>
+	<publisher>James Finstrom</publisher>
+	<license>Custom</license>
+	<category>Admin</category>
+	<description>Is this real life? or is this just fantasy?</description>
+	<changelog>
+		*17.0.1* Initial release. See CHANGELOG for more details.
+	</changelog>
+	<supported>
+		<version>17.0</version>
+	</supported>
+		<console>
+		<command>
+			<name>helloworld</name>
+			<class>Helloworldng</class>
+		</command>
+	</console>
+</module>

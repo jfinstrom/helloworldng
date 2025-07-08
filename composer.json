@@ -1,0 +1,19 @@
+{
+	"name": "jfinstrom/helloworldng",
+	"description": "A FreePBX poc",
+	"type": "project",
+	"autoload": {
+		"psr-4": {
+			"FreePBX\\Modules\\Helloworldng\\": "src/"
+		}
+	},
+	"authors": [
+		{
+			"name": "James Finstrom",
+			"email": "jfinstrom@noemail.com"
+		}
+	],
+	"require": {
+		"illuminate/database": "^12.20"
+	}
+}

@@ -1,0 +1,7 @@
+_17.0.1_ Initial release. Nothing yet, we just got here.
+
+-   Created a new module called helloworldng.
+-   Added a module.xml file with basic information.
+-   Added a README file with project description and license information.
+-   Added a LICENSE file with End User License Agreement (EULA) and alternative licensing option.
+-   Added a CHANGELOG file to track changes and updates.
